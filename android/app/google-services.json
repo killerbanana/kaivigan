@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278387063800",
+    "project_id": "kaivigan-1",
+    "storage_bucket": "kaivigan-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278387063800:android:694bec18d0414bb402340d",
+        "android_client_info": {
+          "package_name": "com.example.kaivigan_2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278387063800-1jt6ii4hbtvso08matjntf8smcacf4l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXZ7eDiGULKhpseACcY7iRdad-x0aBAqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278387063800-1jt6ii4hbtvso08matjntf8smcacf4l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
